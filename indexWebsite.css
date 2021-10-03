@@ -1,0 +1,61 @@
+
+
+
+body {
+    background-image:url("tree.jpg");
+    background-color: rgba(150, 107, 107, 0.548);
+    background-position-x: center;
+  background-repeat: 2;
+  background-size:auto;
+  position: relative;
+}
+
+h1 {
+    font: 27px Dejavu Sans;
+    color: rgba(116, 43, 43, 0.493);
+    text-shadow: rgba(117, 238, 4, 0.541) 1px 1px;
+    text-indent: 870px;
+    filter: blur(0.007em);
+    animation: shake 2.5s linear forwards;
+}
+
+P.blocktext {
+    background-color: rgba(0, 0, 0, 0.680);
+    margin-left: 325px;
+    margin-right: auto;
+    font: 15px Dejavu Sans;
+    color: rgba(116, 43, 43, 0.644);
+    width: 15em;
+    font-stretch: semi-expanded;
+    font-style: oblique;
+}
+
+a{
+    font: 10px Dejavu Sans;
+    color: rgba(68, 133, 8, 0.541);
+    text-shadow: pink;
+    margin-left: 960px;
+
+}
+
+#dodger {
+    background-color: rgb(110, 29, 29);
+    height: 40px;
+    position: absolute;
+    width: 40px;
+ 
+  }
+  
+  #graphic {
+    background-color: rgba(116, 43, 43, 0.596);
+    height: 500px;
+    margin: auto;
+    overflow: hidden;
+    position:unset;
+    
+    width: 700px;
+  }
+  
+
+
+  }
